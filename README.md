@@ -1,0 +1,1 @@
+This project demonstrates autonomous UAV navigation using GPS-based waypoint mission planning. It includes simulation using PX4, QGroundControl, and Gazebo, along with waypoint design, mission execution, and basic analysis of flight path accuracy and telemetry data.
